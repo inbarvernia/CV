@@ -51,10 +51,10 @@ _Musician and music teacher_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-####Royal Academy of Music (September 2011 - November 2013)
+#### Royal Academy of Music (September 2011 - November 2013)
 _MMus with Distinction_
 
-####Royal Welsh College of Music and Drama (September 2007 - July 2011)
+#### Royal Welsh College of Music and Drama (September 2007 - July 2011)
 _BMus (Hons), First Class_
 
 ~~#### Your University / College (start_date to end_date)~~

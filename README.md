@@ -1,29 +1,31 @@
-## Your Name
+[Under construction]
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+## Inbar Vernia
+
+~~A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.~~
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Student Directory            | An interactive app for creating, editing and saving a list of students | Ruby |
+| Rock-Paper-Scissors | An exercise in writing a method for adjudicating rock-paper-scissors using RSpec | Ruby, RSpec, TDD, Pair Programming              |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
+**Self-Employed** (July 2013-present)  
+_Musician and music teacher_
+
+~~- Any experience relevent to software development~~
+
+~~**Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Any experience relevent to software development~~
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+~~Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -38,18 +40,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.)~~
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February to May 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+**Royal Academy of Music** (September 2011 - November 2013)
+_MMus with Distinction_
+
+**Royal Welsh College of Music and Drama** (September 2007 - July 2011)
+_BMus (Hons), First Class_
+
+~~#### Your University / College (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
@@ -57,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person~~
 
 ## Hobbies
 
